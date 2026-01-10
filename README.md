@@ -83,14 +83,19 @@ house-price-prediction-app/
 
 ```
 ### 🎯 Prediction Panel
+```md
 ![Prediction Panel](images/prediction_panel.png)
+```
 
 ### 📊 Feature Importance
+```md
 ![Feature Importance](images/feature_importance.png)
-
+```
 
 ### 📉 Sale Price Distribution
+```md
 ![Sale Price Distribution](images/price_distribution.png)
+```
 
 ### 🔍 How It Works
 
