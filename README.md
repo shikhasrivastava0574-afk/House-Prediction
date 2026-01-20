@@ -120,7 +120,7 @@ Target Transformation: Logarithmic
 Evaluation Metric: RMSE
 
 ### 🌐 Live Application
-🔗 https://your-app-name.streamlit.app
+🔗 https://house-prediction-dmfp9qvtymxckhjfmoade8.streamlit.app/
 
 
 (Replace with your deployed Streamlit URL)
